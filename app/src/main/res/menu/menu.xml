@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon="@drawable/refresh"
+        android:id="@+id/menuTheme1"
+        android:title="@string/stock_theme"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menuTheme2"
+        android:title="@string/dark_theme"/>
+
+    <item
+        android:id="@+id/menuTheme3"
+        android:title="@string/green_theme"/>
+    <item
+        android:id="@+id/menuTheme4"
+        android:title="@string/red_theme"/>
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu"
+        android:title="@string/menu_font" />
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/normalFont"
+            android:title="@string/normal_font">
+        <item
+            android:id="@+id/boldFont"
+            android:title="@string/big_font" />
+        <item
+            android:id="@+id/italicFont"
+            android:title="@string/italic" />
+    </group>
+</menu>

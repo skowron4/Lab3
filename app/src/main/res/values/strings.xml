@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="menu">Menu</string>
+    <string name="right_activity">Right Activity</string>
+    <string name="left_activity">Left Activity</string>
+    <string name="red_theme">Red theme</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="green_theme">Green theme</string>
+    <string name="stock_theme">Stock theme</string>
+    <string name="normal_font">Normal font</string>
+    <string name="big_font">Big font</string>
+    <string name="italic">Italic</string>
+    <string name="small_font">Small font</string>
+    <string name="medium_font">Normal font</string>
+    <string name="huge_font">Huge font</string>
+    <string name="menu_size">Font size menu</string>
+    <string name="menu_font">Font type menu</string>
+</resources>
